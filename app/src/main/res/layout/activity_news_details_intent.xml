@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NewsDetailsIntent">
+
+    <ImageView
+        android:id="@+id/Image_Wide"
+        android:layout_width="match_parent"
+        android:layout_height="364dp"
+        android:layout_marginBottom="8dp"
+        android:scaleType="centerCrop" />
+
+
+
+    <TextView
+        android:id="@+id/Title_View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#D20C0C0C"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="Narendra Modi"
+        android:layout_below="@+id/Image_Wide" />
+
+    <TextView
+        android:id="@+id/Desc_View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:textSize="15sp"
+        android:layout_below="@+id/Title_View"/>
+
+        <Button
+            android:id="@+id/Browser_Intent_Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="Click here for more details."
+            android:layout_below="@+id/Desc_View"/>
+
+</RelativeLayout>

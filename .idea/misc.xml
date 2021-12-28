@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_bookmark.xml" value="0.2203125" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_image.xml" value="0.2203125" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_message.xml" value="0.2203125" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_setting.xml" value="0.2203125" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_share.xml" value="0.2203125" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_categories_acitivty.xml" value="0.22" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_category_intent.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_news_details_intent.xml" value="0.2" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_settings.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/nav_header.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/news_item.xml" value="0.36153846153846153" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/sample.xml" value="0.3805668016194332" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/layout/toolbar.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/menu/intent_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/xml/prefrences.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/manish/AndroidStudioProjects/NewsApp/app/src/main/res/xml/splash_screen.xml" value="0.1621376811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <!--   <ListPreference
+        android:title="Theme"
+        app:defaultValue="blue"
+        android:key="set_themes"
+        android:entries= "@array/pref_themes_labels"
+        android:entryValues="@array/pref_themes_values"/>-->
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_notifications"
+        android:summaryOff=""
+        android:summaryOn="shown"
+        android:title="show box"/>
+</PreferenceScreen>
