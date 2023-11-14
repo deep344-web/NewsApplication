@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements NewsAdapter.OnNew
     RecyclerView recyclerView;
     CoordinatorLayout coordinatorLayout;
 
-    final static String LOADER_LOG_TAG = "Loader Activities";
+    final static String LOADER_LOG_TAG = "Loader Activities jdj";
 
     ProgressBar progressBar;
 
